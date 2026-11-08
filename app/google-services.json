@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "819061069764",
+    "project_id": "vijayalaxmi-728b5",
+    "storage_bucket": "vijayalaxmi-728b5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819061069764:android:c7383ccffe18f8c5deb691",
+        "android_client_info": {
+          "package_name": "com.example.myapplication4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWRmkmwWgUsMsu0OXCsxFu6seg8AcOfXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
